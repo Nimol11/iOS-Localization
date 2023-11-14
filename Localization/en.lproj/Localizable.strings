@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Nimol on 14/11/23.
+  
+*/
+"hello" = "Hello";
+"language" = "Language";
+"button" = "Button";
